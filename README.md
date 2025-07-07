@@ -1,9 +1,13 @@
 # Hello, I'm Greg 🚀🔥
 
 🎯 Computer Tech Student at MMU<br/>
-👾 Recent graduate of Cybersecurity at Moringa School<br/>
-🧠 I major in Python Programming<br/>
+👾 Cybersecurity graduate from Moringa School<br/>
+🧠 Proficient in backend development with Python, Flask, and PostgreSQL<br/>
 👑 I also create content on Tech<br/>
+
+## Website
+
+https://g3tech.netlify.app/
 
 ## Objective 
 
