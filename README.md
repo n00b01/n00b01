@@ -9,6 +9,10 @@
 
 https://g3tech.netlify.app/
 
+## CV
+
+https://g3tech.vercel.app/
+
 ## Socials
 
 https://bio.site/g3tech
