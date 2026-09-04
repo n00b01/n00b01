@@ -1,9 +1,10 @@
 # Hello, I'm Greg 🚀
 
-🎯 Computer Tech Student at MMU<br/>
-👾 Cybersecurity graduate from Moringa School<br/>
-🧠 Proficient in backend development with Python, Flask, and PostgreSQL<br/>
-👑 Tech content creator<br/>
+🎯 Computer Tech Student at MMU | Software Testing Attachee at Syncfusion<br/>
+🔐 Cybersecurity graduate from Moringa School<br/>
+🐍 Backend developer — Python, Flask, FastAPI & PostgreSQL<br/>
+☁️ Cloud & Kubernetes enthusiast<br/>
+✍️ Tech blogger & content creator<br/>
 
 ## Portfolio
 
